@@ -1,14 +1,26 @@
-# Consulate as per jurisdiction 
- # Consulate General of India, San Francisco {540 Arguello Boulevard, SFO, CA - 94118}
+1->Consulate as per jurisdiction 
+ 1-> Consulate General of India, San Francisco {540 Arguello Boulevard, SFO, CA - 94118}
 
-# Application to be submitted at :
- # BLS India Passport USA, 4837 Geary Blvd, SFO, CA 94118
+2->Application to be submitted at :
+ 1-> BLS India Passport USA, 4837 Geary Blvd, SFO, CA 94118
 
-# Online passport Application Form [06/24/2014] 
- # Amount = $91.20 in favor of "BLS International Services USA INC"
- # Money order($5) or cashier's cheque($8) 
- # Took a money order [06/25/2014]
- # Fill in the BLS order form
-
-# Save the BLS order form 
+3->Online passport Application Form [06/24/2014] 
+ 1->Amount = $91.20 in favor of "BLS International Services USA INC"
+ 2->Money order($5) or cashier's cheque($8) 
+ 3->Took a money order [06/25/2014]
+ 4->Fill in the BLS order form
+ 5->Save the BLS order form
  
+4->Complete documents list
+ 1->Copy of the filled BLS order form
+ 2->Online application form
+ 3->Print and sign the checklist (http://www.passport.blsindia-usa.com/pptchecklist/BLSUSPassportChecklist.pdf) 
+ 4->3copies of (For SFO-> 2copies) Nationality Verification Form
+  1->Link = "http://www.passport.blsindia-usa.com/forms/SampleNationalityForm.pdf"
+ 5->Original existing passport 
+ 6->Photocopy of the first five pages and the last two pages of the passport to be produced {including observations)
+ 7->Notarized photocopy of proof of valid visa/I-797 approval notice
+ 8->Notarized photocopy of proof of Residence {Driving License/Utility Bill/Rental Lease agreement/Home Mortgage Bill} 
+ 9->Photographs showing full frontal view of 2X2 inches size with white background only
+ 10->Change in appearance {link => http://passport.blsindia-usa.com/forms/ChangeInAppearanceAffidavit.pdf}
+  
